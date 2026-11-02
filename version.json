@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "2.1.4",
   "files": {
-    "windows": "LUT-Bakery-update-win.zip",
-    "macos_arm": "LUT-Bakery-update-mac-arm.zip"
+    "windows": "LUT-Bakery-2.1.4-Windows-x64-Setup.zip",
+    "macos_arm": "LUT-Bakery-mac-arm-2.1.4.zip"
   }
 }
